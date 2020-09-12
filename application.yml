@@ -1,6 +1,6 @@
 logging:
   level:
-    org.springframework: ERROR
+    org.springframework: Venkat
     com.mkyong: DEBUG
 
 spring:
@@ -9,7 +9,7 @@ spring:
   main:
     banner-mode: off
 
-email: venhas27@gmail.com
+email: venhas16@gmail.com
 thread-pool: 10
 
 wordpress:
