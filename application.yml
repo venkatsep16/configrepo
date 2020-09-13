@@ -1,6 +1,6 @@
 logging:
   level:
-    org.springframework: Venkat
+    org.springframework: Sangamesh
     com.mkyong: DEBUG
 
 spring:
